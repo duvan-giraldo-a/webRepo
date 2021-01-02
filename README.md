@@ -25,5 +25,6 @@ DESCRIPCIÓN:
   6.3. Se implementó el uso de componentes para hacer la aplicación SPA.
   6.4. La aplicación se ajusta a diferentes tipos de pantalla, esto se logró
   haciendo uso de Bootstrap y CSS.
-  
+  6.5. Se implementaron alertas.
+  6.6. Los formularios se implementaron reactivos.
   
