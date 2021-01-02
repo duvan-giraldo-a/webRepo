@@ -10,7 +10,7 @@ DESCRIPCIÓN:
 1. Backend con Laravel, Frontend con Angular.
 2. El backend de la aplicación se hizo usando JWT para brindar seguridad.
 3. Las validaciones hechas en el backend asociadas a la lógica del negocio, fueron:
-  3.1. Campos obligatorios.
+  * Campos obligatorios.
   3.2. Campos de tipo numérico.
   3.3. Campos de tipo email.
   3.4. Los números de identificación de los clientes son únicos.
